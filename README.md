@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ju Woojae
+#  Hi there! I'm Ju Woojae
 
 I am a backend developer, Ju Woojae, who constantly seeks better system design and optimization while diving deeply into each problem.
 
